@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Genesis project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Genesis_project_jar</output-path>
+    <root id="archive" name="Genesis project.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$APPLICATION_HOME_DIR$/jre/jre/bin/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Genesis project" />
+    </root>
+  </artifact>
+</component>

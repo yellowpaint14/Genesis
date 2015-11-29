@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bce0cc93-eff5-488e-a35b-f17f7425d448" name="Adrian FTP" url="http://85.17.73.180">
+        <fileTransfer host="85.17.73.180" port="21" rootFolder="/Projekty/Genesis project" username="admin@adriangruszka.cba.pl">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
